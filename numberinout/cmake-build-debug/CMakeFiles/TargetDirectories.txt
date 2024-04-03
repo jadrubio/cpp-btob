@@ -1,0 +1,3 @@
+/Users/nowheyjose/Documents/Coding/C++/BtoB/numberinout/cmake-build-debug/CMakeFiles/numberinout.dir
+/Users/nowheyjose/Documents/Coding/C++/BtoB/numberinout/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nowheyjose/Documents/Coding/C++/BtoB/numberinout/cmake-build-debug/CMakeFiles/rebuild_cache.dir
